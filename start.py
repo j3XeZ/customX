@@ -21,12 +21,12 @@ db.commit()
 
 
 def console_picture():
-    print("r0664n")
+    print("customX")
     time.sleep(0.5)
-    print("power")
+    print("telegram")
 
     time.sleep(0.5)
-    print("with love")
+    print("Durov with love")
 
 console_picture()
 print("Добро пожаловать в Telegram V2.0 antibroot! ")
