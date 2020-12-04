@@ -10,7 +10,7 @@
 
 1. `pip3 install -r requirements.txt`
 
-2. `sudo apt-get install python3-tk` - #должна быть установлена по умолчанию на PC Windows ( пропускаем эту команду)
+2. `sudo apt-get install python3-tk` - _должна быть установлена по умолчанию на PC Windows ( пропускаем эту команду_
  
 3. `sudo npm install -g npm`
 
