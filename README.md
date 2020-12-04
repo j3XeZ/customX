@@ -11,8 +11,7 @@
 1. Зарегистрироваться на https://my.telegram.org и создать свое приложение
 2. Получить `AIP_HASH` и `API_ID` ( сохранить )
 3. Установить пакет npm по ссылке - https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi
-
-
+4. `git clone https://github.com/r0664n77/customX.git`
 ### Установка компонентов:
 
 1. `pip3 install -r requirements.txt`
