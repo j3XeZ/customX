@@ -1,14 +1,14 @@
+Безопасный Telegram 
+### Установка компонентов:
 
-### Зависимости:
+1. `pip3 install -r requirements.txt`
 
-`pip3 install -r requirements.txt`
+2. `sudo apt-get install python3-tk` - #должна быть установлена по умолчанию на PC Windows
 
-`sudo apt-get install python3-tk`
+3. Установить пакет npm по ссылке - https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi
 
-`sudo apt install npm`
+4. `sudo npm install -g npm`
 
-`sudo npm install -g npm`
-
-`sudo npm install -g stegcloak`
+5. `sudo npm install -g stegcloak`
 
 Запустить фаил `1.py`и следовать инструкциям программы.
