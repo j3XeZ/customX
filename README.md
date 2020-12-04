@@ -1,5 +1,5 @@
 
-# AbyssX Telegram 
+# customX Telegram 
 ![Иллюстрация к проекту](https://github.com/r0664n77/telegramvisit/blob/master/4d53c9a69f71e169f2cb4.jpg)
 
 > ~~AbyssX Platform~~
