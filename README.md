@@ -1,5 +1,5 @@
 
-![Иллюстрация к проекту](https://github.com/r0664n77/telegramvisit/blob/master/4d53c9a69f71e169f2cb4.jpg)
+![Иллюстрация к проекту](https://github.com/j3XeZ/telegramvisit/blob/master/4d53c9a69f71e169f2cb4.jpg)
 
 # customX Telegram 
 
@@ -12,7 +12,7 @@
 1. Зарегистрироваться на https://my.telegram.org и создать свое приложение
 2. Получить `AIP_HASH` и `API_ID` ( сохранить )
 3. Установить пакет npm по ссылке - https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi
-4. `git clone https://github.com/r0664n77/customX.git`
+4. `git clone https://github.com/j3XeZ/customX.git`
 5. `cd customX`
 ### Установка компонентов:
 
